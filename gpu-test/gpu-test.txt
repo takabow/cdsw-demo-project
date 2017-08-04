@@ -1,0 +1,10 @@
+# Python2
+
+!pip install tensorflow
+!pip install tensorflow-gpu
+
+# Python3
+
+!pip3 install tensorflow
+!pip3 install tensorflow-gpu
+
